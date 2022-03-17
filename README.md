@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Programming
-- 🌱 I’m currently learning React.JS and Angular
+- 🌱 I’m currently learning React.JS, Angular, ASP.NET Core and Flutter
 - 👯 I’m looking to collaborate on community 
 - 💬 Ask me about on my [Personal Page](https://ricardopeleiraportfolio.netlify.app)
 
