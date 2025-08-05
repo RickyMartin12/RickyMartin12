@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Programming
 - 🌱 I’m currently learning React.JS, Angular, ASP.NET Core and Flutter
-- 👯 I’m working software developer at Caixa Geral Depositos
+- 👯 I’m working Tester Developer in NOS Campo Grande
 - 💬 Ask me about on my [Personal Page](https://ricardopeleiraportfolio.netlify.app)
 
 Graduate on Computer Engineering in University of Algarve on Faculty of Science and Tecnology in Faro - Gambelas, Portugal. I learn easily, i'm responsible with sense of humor, i work in team. I give my best and i'm organized, competitive and very stubborn. 
